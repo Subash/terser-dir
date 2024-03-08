@@ -2,7 +2,7 @@
   "name": "@sbspk/terser-dir",
   "version": "2.0.0",
   "bin": {
-    "terser-glob": "cli.mjs"
+    "terser-dir": "cli.mjs"
   },
   "dependencies": {
     "execa": "^8.0.1"
